@@ -30,7 +30,6 @@ Python
 - imutils
 - albumentations
 - tdqm
-- 
 
 ## To Do:
 - Modify the model to opperate more accurately
